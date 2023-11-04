@@ -53,7 +53,8 @@ return 0;
 }
 ```
 ## OUTPUT:
-![output2](https://github.com/Shrruthilaya-Gangadaran/OS-EX.10-IMPLEMENTATION-OF-PAGE-REPLACEMENT-ALGORITHMS/assets/93427705/b50027d2-0ee7-4943-b020-0f414367165b)
+![10a](https://github.com/varshxnx/OS-EX.10-IMPLEMENTATION-OF-PAGE-REPLACEMENT-ALGORITHMS/assets/122253525/ba8cfcc3-b926-45bf-b38c-e56d88ef1485)
+
 ## RESULT:
 Thus, the implementation of FIFO page replacement is successfully executed.
 ## PAGE REPLACEMENT ALGORITHM (LRU)
@@ -147,7 +148,8 @@ printf("\nThe no of page faults is %d",c);
 }
 ```
 ## OUTPUT:
-![output3](https://github.com/Shrruthilaya-Gangadaran/OS-EX.10-IMPLEMENTATION-OF-PAGE-REPLACEMENT-ALGORITHMS/assets/93427705/17bce638-799e-43ac-915f-7dae59305190)
+![10b](https://github.com/varshxnx/OS-EX.10-IMPLEMENTATION-OF-PAGE-REPLACEMENT-ALGORITHMS/assets/122253525/8bcf7db5-d404-42c4-a4b8-701e34ca1488)
+
 ## RESULT:
 Thus, the implementation of LRU page replacement is successfully executed.
 ## PAGE REPLACEMENT ALGORITHM (OPR)
@@ -201,6 +203,7 @@ return 0;
 }
 ```
 ## OUTPUT:
-![output1](https://github.com/Shrruthilaya-Gangadaran/OS-EX.10-IMPLEMENTATION-OF-PAGE-REPLACEMENT-ALGORITHMS/assets/93427705/b7b88ec1-cb5a-456f-89fa-82955522fd52)
+![10c](https://github.com/varshxnx/OS-EX.10-IMPLEMENTATION-OF-PAGE-REPLACEMENT-ALGORITHMS/assets/122253525/ff945eb9-86a3-4546-938c-2d754e14ea1a)
+
 ## RESULT:
 Thus, the implementation of OPR page replacement is successfully executed.
